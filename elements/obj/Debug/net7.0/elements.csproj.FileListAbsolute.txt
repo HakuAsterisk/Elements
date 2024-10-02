@@ -1,0 +1,14 @@
+C:\Users\Borys\Downloads\elements\bin\Debug\net7.0\elements.exe
+C:\Users\Borys\Downloads\elements\bin\Debug\net7.0\elements.deps.json
+C:\Users\Borys\Downloads\elements\bin\Debug\net7.0\elements.runtimeconfig.json
+C:\Users\Borys\Downloads\elements\bin\Debug\net7.0\elements.dll
+C:\Users\Borys\Downloads\elements\bin\Debug\net7.0\elements.pdb
+C:\Users\Borys\Downloads\elements\obj\Debug\net7.0\elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borys\Downloads\elements\obj\Debug\net7.0\elements.AssemblyInfoInputs.cache
+C:\Users\Borys\Downloads\elements\obj\Debug\net7.0\elements.AssemblyInfo.cs
+C:\Users\Borys\Downloads\elements\obj\Debug\net7.0\elements.csproj.CoreCompileInputs.cache
+C:\Users\Borys\Downloads\elements\obj\Debug\net7.0\elements.dll
+C:\Users\Borys\Downloads\elements\obj\Debug\net7.0\refint\elements.dll
+C:\Users\Borys\Downloads\elements\obj\Debug\net7.0\elements.pdb
+C:\Users\Borys\Downloads\elements\obj\Debug\net7.0\elements.genruntimeconfig.cache
+C:\Users\Borys\Downloads\elements\obj\Debug\net7.0\ref\elements.dll
